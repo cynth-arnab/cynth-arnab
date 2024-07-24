@@ -1,6 +1,6 @@
-<h2 align="center">Hi 👋! I'm Arnab Chakraborty</h2>
+<h2 align="center">Hi 👋! I'm Arnab Chakraborty and welcome to my profile.</h2>
 
-<h2 align="center"> These are the various tools, programming languages and frameworks that I work with usually</h2> 
+<h3 align="center"> These are the various tools, programming languages and frameworks that I usually work with.</h3> 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
   <img width="12" />
