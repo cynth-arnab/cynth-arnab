@@ -1,4 +1,4 @@
-Is this for the soul? My Soul?
+Is this meant for the soul? My Soul?
 
 
 <div align="left">
